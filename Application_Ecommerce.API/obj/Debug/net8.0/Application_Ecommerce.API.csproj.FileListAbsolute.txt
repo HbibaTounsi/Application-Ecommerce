@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application_Ecommerce.API\obj\Debug\net8.0\Application_Ecommerce.API.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application_Ecommerce.API\obj\Debug\net8.0\Application_Ecommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application_Ecommerce.API\obj\Debug\net8.0\Application_Ecommerce.API.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application_Ecommerce.API\obj\Debug\net8.0\Application_Ecommerce.API.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application_Ecommerce.API\obj\Debug\net8.0\Application_Ecommerce.API.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application_Ecommerce.API\obj\Debug\net8.0\Application_Ecommerce.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application_Ecommerce.API\obj\Debug\net8.0\Application_Ecommerce.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application_Ecommerce.API\obj\Debug\net8.0\Application_Ecommerce.API.dll
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application_Ecommerce.API\obj\Debug\net8.0\refint\Application_Ecommerce.API.dll
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application_Ecommerce.API\obj\Debug\net8.0\Application_Ecommerce.API.pdb

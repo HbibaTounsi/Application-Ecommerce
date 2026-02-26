@@ -1,0 +1,17 @@
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\bin\Debug\net8.0\Application-Ecommerce.Infrastructure.deps.json
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\bin\Debug\net8.0\Application-Ecommerce.Infrastructure.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\bin\Debug\net8.0\Application-Ecommerce.Infrastructure.dll
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\bin\Debug\net8.0\Application-Ecommerce.Infrastructure.pdb
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\bin\Debug\net8.0\Application-Ecommerce.Core.dll
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\bin\Debug\net8.0\Application-Ecommerce.Core.pdb
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\obj\Debug\net8.0\Application-Ecommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\obj\Debug\net8.0\Application-Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\obj\Debug\net8.0\Application-Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\obj\Debug\net8.0\Application-Ecommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\obj\Debug\net8.0\Application-Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\obj\Debug\net8.0\Application-Ecommerce.Infrastructure.csproj.CopyComplete
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\obj\Debug\net8.0\Application-Ecommerce.Infrastructure.dll
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\obj\Debug\net8.0\refint\Application-Ecommerce.Infrastructure.dll
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\obj\Debug\net8.0\Application-Ecommerce.Infrastructure.pdb
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\obj\Debug\net8.0\Application-Ecommerce.Infrastructure.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.Infrastructure\obj\Debug\net8.0\ref\Application-Ecommerce.Infrastructure.dll

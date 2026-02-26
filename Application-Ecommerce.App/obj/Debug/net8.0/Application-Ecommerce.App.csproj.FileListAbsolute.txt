@@ -1,0 +1,15 @@
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\obj\Debug\net8.0\Application-Ecommerce.App.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\obj\Debug\net8.0\Application-Ecommerce.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\obj\Debug\net8.0\Application-Ecommerce.App.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\obj\Debug\net8.0\Application-Ecommerce.App.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\obj\Debug\net8.0\Application-Ecommerce.App.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\obj\Debug\net8.0\Application-Ecommerce.App.dll
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\obj\Debug\net8.0\refint\Application-Ecommerce.App.dll
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\obj\Debug\net8.0\Application-Ecommerce.App.pdb
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\bin\Debug\net8.0\Application-Ecommerce.App.deps.json
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\bin\Debug\net8.0\Application-Ecommerce.App.dll
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\bin\Debug\net8.0\Application-Ecommerce.App.pdb
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\bin\Debug\net8.0\Application-Ecommerce.Core.dll
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\bin\Debug\net8.0\Application-Ecommerce.Core.pdb
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\obj\Debug\net8.0\Application-Ecommerce.App.csproj.CopyComplete
+C:\Users\lenovo\OneDrive\Documents\Aplication Ecommerce\Application-Ecommerce.App\obj\Debug\net8.0\ref\Application-Ecommerce.App.dll
