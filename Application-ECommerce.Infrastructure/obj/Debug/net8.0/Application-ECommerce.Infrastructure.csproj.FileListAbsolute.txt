@@ -15,3 +15,4 @@ D:\Application E-Commerce\Application\Application-ECommerce.Infrastructure\obj\D
 D:\Application E-Commerce\Application\Application-ECommerce.Infrastructure\obj\Debug\net8.0\ref\Application-ECommerce.Infrastructure.dll
 D:\Application E-Commerce\Application\Application-ECommerce.Infrastructure\bin\Debug\net8.0\Application-ECommerce.Infrastructure.runtimeconfig.json
 D:\Application E-Commerce\Application\Application-ECommerce.Infrastructure\obj\Debug\net8.0\Application-ECommerce.Infrastructure.genruntimeconfig.cache
+D:\Application E-Commerce\Application\Application-ECommerce.Infrastructure\obj\Debug\net8.0\Application-ECommerce.Infrastructure.sourcelink.json
